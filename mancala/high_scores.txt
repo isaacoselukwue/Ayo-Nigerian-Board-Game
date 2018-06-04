@@ -1,0 +1,4 @@
+Robot B Left	38
+Robot A	38
+Human	35
+Human Right	19
